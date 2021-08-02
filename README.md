@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning how to be a batter gamer
 - 💞️ I’m looking to collaborate on game engine
-- 📫 How to reach me ...
+- 📫 How to reach me Fu.Yichan.Frank@icloud.com
 
 <!---
 FrankInAu/FrankInAu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
